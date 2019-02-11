@@ -1,0 +1,16 @@
+{
+  "name": "inversify-game",
+  "version": "1.0.0",
+  "description": "a simple random item builder with dependency injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darryl Kilzer <darrylkilzer@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "inversify": "^5.0.1",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^3.3.3"
+  }
+}
